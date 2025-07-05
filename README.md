@@ -37,3 +37,10 @@ This data is finally connected to **Power BI** for analysis and dashboards.
 - **Azure Synapse Analytics** – For loading data into structured warehouse tables (Gold layer)
 - **Power BI** – For visualizing final datasets and building reports
 - **PySpark / Python** – Used inside Databricks for data transformation
+  
+## ✅ Key Learnings
+
+- End-to-end ETL/ELT data pipeline in Azure
+- Practical use of Bronze, Silver, and Gold architecture
+- Hands-on with real Azure tools used in industry
+- Ready-to-show project for portfolio or job interviews
