@@ -44,3 +44,8 @@ This data is finally connected to **Power BI** for analysis and dashboards.
 - Practical use of Bronze, Silver, and Gold architecture
 - Hands-on with real Azure tools used in industry
 - Ready-to-show project for portfolio or job interviews
+
+## 📦 Files Included
+
+- `ARMTemplateForFactory.json`: The full pipeline definition including datasets, linked services, and activities
+- `ARMTemplateParametersForFactory.json`: Parameters used during deployment
