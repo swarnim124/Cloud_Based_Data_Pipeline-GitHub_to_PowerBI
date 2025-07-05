@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "factoryName": {
+            "value": "adfdfprojectswarnim"
+        },
+        "AzureDataLakeStorage1_accountKey": {
+            "value": ""
+        },
+        "http_link_accountKey": {
+            "value": ""
+        },
+        "AzureDataLakeStorage1_properties_typeProperties_url": {
+            "value": "https://projectoneswarnim.dfs.core.windows.net/"
+        },
+        "http_link_properties_typeProperties_url": {
+            "value": "https://projectoneswarnim.dfs.core.windows.net/"
+        },
+        "Httpls_properties_typeProperties_url": {
+            "value": "https://raw.githubusercontent.com"
+        }
+    }
+}
