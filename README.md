@@ -49,3 +49,4 @@ This data is finally connected to **Power BI** for analysis and dashboards.
 
 - `ARMTemplateForFactory.json`: The full pipeline definition including datasets, linked services, and activities
 - `ARMTemplateParametersForFactory.json`: Parameters used during deployment
+📁 Sample data used in the Bronze layer can be found [in this repo](https://github.com/your-username/other-repo-name).
